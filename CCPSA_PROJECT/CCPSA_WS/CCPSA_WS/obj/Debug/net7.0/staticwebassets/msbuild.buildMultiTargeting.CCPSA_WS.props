@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/CCPSA_WS.props" />
+</Project>

@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{5291F4A5-891F-4669-922B-9625933DCDF6}|http">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CCPSA__WS PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CCPSA_WS/Controllers/PriceCheckerController.cs">
+    <Files>
+      <File FileName="CCPSA_WS/Controllers/PriceCheckerController.cs" Line="87" Column="18" />
+      <File FileName="CCPSA_WS/Context/CCPSAContext.cs" Line="33" Column="95" />
+      <File FileName="CCPSA_WS/appsettings.json" Line="8" Column="22" />
+      <File FileName="CCPSA_WS/Dockerfile" Line="13" Column="38" />
+      <File FileName="CCPSA_WS/ModelsContext/Banner.cs" />
+      <File FileName="CCPSA_WS/Properties/launchSettings.json" Line="19" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CCPSA_WS" expanded="True">
+            <Node name="CCPSA_WS" expanded="True">
+              <Node name="Context" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="PriceCheckerController.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

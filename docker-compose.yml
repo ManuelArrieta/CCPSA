@@ -1,0 +1,35 @@
+version: "3.4"
+
+services:
+  ccpsa_db:
+    image: 1112476082/ccpsa_db:last
+    restart: always
+    ports:
+      - "3306:3306"
+    #volumes:
+     # - type: volume
+      #  source: mysql-data
+       # target: /var/lib/mysql
+
+
+  ccpsa_ws:
+    image: 1112476082/ccpsa_ws:last
+    ports:
+      - "5100:5100"
+    restart: always  
+    depends_on:
+      - ccpsa_db
+    environment:      
+      CONECTION_STRING: "Server=ccpsa_db;Database=administradorik8560;Uid=root;Pwd=root"
+    
+
+  ccpsa_app:
+    image: 1112476082/ccpsa_app
+    restart: always
+    ports:
+      - '8080:80'
+  
+  #volumes:
+   # mysql-data:
+  
+

@@ -1,0 +1,17 @@
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Release/net7.0/PubTmp/Out/CCPSA_WS
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Release/net7.0/PubTmp/Out/appsettings.Development.json
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Release/net7.0/PubTmp/Out/appsettings.json
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Release/net7.0/PubTmp/Out/CCPSA_WS.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Release/net7.0/PubTmp/Out/CCPSA_WS.runtimeconfig.json
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Release/net7.0/PubTmp/Out/CCPSA_WS.pdb
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Release/net7.0/PubTmp/Out/Microsoft.AspNetCore.OpenApi.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Release/net7.0/PubTmp/Out/Microsoft.EntityFrameworkCore.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Release/net7.0/PubTmp/Out/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Release/net7.0/PubTmp/Out/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Release/net7.0/PubTmp/Out/Microsoft.OpenApi.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Release/net7.0/PubTmp/Out/MySqlConnector.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Release/net7.0/PubTmp/Out/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Release/net7.0/PubTmp/Out/Swashbuckle.AspNetCore.Swagger.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Release/net7.0/PubTmp/Out/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Release/net7.0/PubTmp/Out/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Release/net7.0/PubTmp/Out/CCPSA_WS.deps.json

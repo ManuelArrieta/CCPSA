@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  ccpsa_ws:
+    image: ${DOCKER_REGISTRY-}ccpsaws
+    build:
+      context: .
+      dockerfile: CCPSA_WS/Dockerfile

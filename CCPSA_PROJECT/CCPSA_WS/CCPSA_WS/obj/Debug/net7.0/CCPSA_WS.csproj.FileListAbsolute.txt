@@ -1,0 +1,120 @@
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/appsettings.Development.json
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/appsettings.json
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/CCPSA_WS
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/CCPSA_WS.deps.json
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/CCPSA_WS.runtimeconfig.json
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/CCPSA_WS.dll
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/CCPSA_WS.pdb
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Humanizer.dll
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.csproj.AssemblyReference.cache
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.AssemblyInfoInputs.cache
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.AssemblyInfo.cs
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.csproj.CoreCompileInputs.cache
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.MvcApplicationPartsAssemblyInfo.cs
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.MvcApplicationPartsAssemblyInfo.cache
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/staticwebassets/msbuild.CCPSA_WS.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/staticwebassets/msbuild.build.CCPSA_WS.props
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.CCPSA_WS.props
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.CCPSA_WS.props
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/staticwebassets.build.json
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/staticwebassets.development.json
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/scopedcss/bundle/CCPSA_WS.styles.css
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.csproj.CopyComplete
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.dll
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/refint/CCPSA_WS.dll
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.pdb
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.genruntimeconfig.cache
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/ref/CCPSA_WS.dll
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/MySqlConnector.dll
+/Users/Manuel/Desktop/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/appsettings.Development.json
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/appsettings.json
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/CCPSA_WS
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/CCPSA_WS.deps.json
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/CCPSA_WS.runtimeconfig.json
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/CCPSA_WS.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/CCPSA_WS.pdb
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Humanizer.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/MySqlConnector.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.csproj.AssemblyReference.cache
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.AssemblyInfoInputs.cache
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.AssemblyInfo.cs
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.csproj.CoreCompileInputs.cache
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.MvcApplicationPartsAssemblyInfo.cs
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.MvcApplicationPartsAssemblyInfo.cache
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/staticwebassets/msbuild.CCPSA_WS.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/staticwebassets/msbuild.build.CCPSA_WS.props
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.CCPSA_WS.props
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.CCPSA_WS.props
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/staticwebassets.build.json
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/staticwebassets.development.json
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/scopedcss/bundle/CCPSA_WS.styles.css
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.csproj.CopyComplete
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/refint/CCPSA_WS.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.pdb
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.genruntimeconfig.cache
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/ref/CCPSA_WS.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/appsettings.Development.json
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/appsettings.json
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/CCPSA_WS
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/CCPSA_WS.deps.json
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/CCPSA_WS.runtimeconfig.json
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/CCPSA_WS.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/CCPSA_WS.pdb
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Humanizer.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/MySqlConnector.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.csproj.AssemblyReference.cache
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.AssemblyInfoInputs.cache
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.AssemblyInfo.cs
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.csproj.CoreCompileInputs.cache
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.MvcApplicationPartsAssemblyInfo.cs
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.MvcApplicationPartsAssemblyInfo.cache
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/staticwebassets/msbuild.CCPSA_WS.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/staticwebassets/msbuild.build.CCPSA_WS.props
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.CCPSA_WS.props
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.CCPSA_WS.props
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/staticwebassets.build.json
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/staticwebassets.development.json
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/scopedcss/bundle/CCPSA_WS.styles.css
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.csproj.CopyComplete
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/refint/CCPSA_WS.dll
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.pdb
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/CCPSA_WS.genruntimeconfig.cache
+/Users/Manuel/Desktop/Unicatolica/Trabajo de grado/CCPSA_PROJECT/CCPSA_WS/CCPSA_WS/obj/Debug/net7.0/ref/CCPSA_WS.dll
