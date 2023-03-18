@@ -1,0 +1,35 @@
+<div class="main-container-content">    
+    <mat-card class="main-mat-card-style mat-elevation-z8">
+        <div class="container-content ">
+            <div>
+                <img class="image-style" src="../../../assets/headers/logo_caribe_380.png" />
+            </div>
+            <div class="banner-container">
+                <publicity-banner></publicity-banner>
+            </div>
+            <div><h1>Pase el producto por el laser</h1></div>
+            <div class="main-container-content">
+                <div class="absolute-position-element">                
+                    <form>
+                        <div>
+                            <mat-form-field class="input-container" appearance="outline">              
+                                <input autocomplete="off" id="barcodeInput" name="barcodeInput" [(ngModel)]="barcodeInput" class="input-style" matInput (change)="changePrice()" >
+                            </mat-form-field>                      
+                        </div>                    
+                    </form>
+                </div>
+                <div class="mat-card-container">
+                    <mat-card class="mat-card-style alignment-elements" mat-elevation-z8>
+                        <div class="center-elements">
+                            <div><h1 class="nombre-producto-style">{{nombreProducto}}</h1></div>
+                            <div><h2 class="precio-producto-style">{{precioProducto | currency}}</h2></div>
+                        </div>                                        
+                    </mat-card>
+                </div>
+            </div>            
+        </div>
+    </mat-card>
+    <div class="main-background"></div>
+</div>
+
+

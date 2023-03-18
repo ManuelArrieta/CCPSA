@@ -1,0 +1,30 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap');
+html, body 
+{ 
+    height: 100%; 
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+body
+{
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.main-background
+{    
+    width: 100%;
+    height: 100%;
+    background-image: url("./assets/headers/logo_caribe.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: cover;
+    left: -1%;
+    filter: blur(6px);
+    position: absolute;
+    background-color: whitesmoke;
+}
